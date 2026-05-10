@@ -1,3 +1,9 @@
+---
+title: release-runbook
+type: note
+permalink: claude-code-profiles/release-runbook
+---
+
 # c3p Release Runbook
 
 How to cut a c3p release, rotate the release tokens, and deprecate the

@@ -1,3 +1,9 @@
+---
+title: 00-overview
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-02g/00-overview
+---
+
 # Proof — c3p rename release validation (claude-code-config-profiles@0.3.0)
 
 **Date**: 2026-04-30

@@ -1,3 +1,9 @@
+---
+title: dependency-security
+type: note
+permalink: claude-code-profiles/compound/research/security/dependency-security
+---
+
 # Dependency Security Reference
 
 *February 23, 2026*

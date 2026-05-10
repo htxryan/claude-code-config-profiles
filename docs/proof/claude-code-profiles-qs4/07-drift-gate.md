@@ -1,3 +1,9 @@
+---
+title: 07-drift-gate
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-qs4/07-drift-gate
+---
+
 # 07 — drift gate (abort / discard / persist) on swap
 
 ## abort: `use prod --on-drift=abort` -- exits non-zero, doesn't swap

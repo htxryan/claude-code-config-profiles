@@ -1,3 +1,9 @@
+---
+title: README
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-8pm/readme
+---
+
 # Proof — `claude-code-profiles-8pm` (brand logo)
 
 Captured 2026-05-01 with `_capture.mjs` (Playwright). Reproducible: start

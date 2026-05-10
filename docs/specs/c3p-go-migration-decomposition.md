@@ -1,3 +1,9 @@
+---
+title: c3p-go-migration-decomposition
+type: note
+permalink: claude-code-profiles/specs/c3p-go-migration-decomposition
+---
+
 # c3p Go Rewrite — Decomposition (Phase 3)
 
 **Date**: 2026-05-01

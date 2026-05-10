@@ -1,3 +1,9 @@
+---
+title: data-exposure
+type: note
+permalink: claude-code-profiles/compound/research/security/data-exposure
+---
+
 # Data Exposure Patterns
 
 *February 23, 2026*

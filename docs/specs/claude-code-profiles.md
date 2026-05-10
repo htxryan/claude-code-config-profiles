@@ -1,3 +1,9 @@
+---
+title: claude-code-profiles
+type: note
+permalink: claude-code-profiles/specs/claude-code-profiles
+---
+
 # claude-code-profiles — System Specification
 
 **Status**: Draft (Phase 2 of architect skill, revised post-advisory)

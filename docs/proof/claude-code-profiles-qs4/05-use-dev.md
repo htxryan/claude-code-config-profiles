@@ -1,3 +1,9 @@
+---
+title: 05-use-dev
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-qs4/05-use-dev
+---
+
 # 05 — use dev: materialize the active profile
 
 ## before: no .claude/

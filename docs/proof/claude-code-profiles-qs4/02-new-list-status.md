@@ -1,3 +1,9 @@
+---
+title: 02-new-list-status
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-qs4/02-new-list-status
+---
+
 # 02 — new / list / status: scaffold profiles & inspect
 
 ## `new dev`

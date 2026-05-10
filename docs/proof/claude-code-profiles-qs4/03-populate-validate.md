@@ -1,3 +1,9 @@
+---
+title: 03-populate-validate
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-qs4/03-populate-validate
+---
+
 # 03 — populate dev + prod (extends dev), then validate
 
 ## profile contents

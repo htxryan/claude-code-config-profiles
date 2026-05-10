@@ -1,3 +1,9 @@
+---
+title: 06-drift-detect
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-qs4/06-drift-detect
+---
+
 # 06 — drift detection (modify, add, delete in live .claude/)
 
 Three drift events injected:

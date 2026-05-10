@@ -1,3 +1,9 @@
+---
+title: 11-concurrency
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-qs4/11-concurrency
+---
+
 # 11 — concurrency: lockfile prevents racing swaps
 
 Two background `use` swaps fired simultaneously. Exactly one should win;

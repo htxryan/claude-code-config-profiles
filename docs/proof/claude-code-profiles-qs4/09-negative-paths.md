@@ -1,3 +1,9 @@
+---
+title: 09-negative-paths
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-qs4/09-negative-paths
+---
+
 # 09 — negative paths: missing profile, missing parent, cycle, bad argv
 
 ## use a non-existent profile

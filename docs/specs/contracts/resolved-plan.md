@@ -1,3 +1,9 @@
+---
+title: resolved-plan
+type: note
+permalink: claude-code-profiles/specs/contracts/resolved-plan
+---
+
 # ResolvedPlan — Cross-Epic Contract (locked)
 
 **Schema version**: 1

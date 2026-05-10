@@ -1,3 +1,9 @@
+---
+title: getc3p-web-presence-advisory-brief
+type: note
+permalink: claude-code-profiles/specs/getc3p-web-presence-advisory-brief
+---
+
 # getc3p.dev — advisory brief
 
 **Spec under review**: `docs/specs/getc3p-web-presence.md`

@@ -1,3 +1,9 @@
+---
+title: 12-components
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-qs4/12-components
+---
+
 # 12 — components: `includes` + `extends` compose into one .claude/
 
 Two reusable components in `./components/`, two profiles that compose them

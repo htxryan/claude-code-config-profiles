@@ -1,3 +1,9 @@
+---
+title: getc3p-web-presence
+type: note
+permalink: claude-code-profiles/specs/getc3p-web-presence
+---
+
 # getc3p.dev — marketing + docs site
 
 **Status**: Approved at Gate 2 (revised post-advisory)

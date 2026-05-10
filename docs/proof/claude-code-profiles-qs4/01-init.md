@@ -1,3 +1,9 @@
+---
+title: 01-init
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-qs4/01-init
+---
+
 # 01 — init: bootstrap .claude-profiles/ on a fresh project
 
 ## Initial dir

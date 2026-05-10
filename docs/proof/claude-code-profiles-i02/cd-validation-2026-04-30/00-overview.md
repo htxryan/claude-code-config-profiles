@@ -1,3 +1,9 @@
+---
+title: 00-overview
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-i02/cd-validation-2026-04-30/00-overview
+---
+
 # Proof — End-to-end CD pipeline + claude-code-config-profiles@0.2.4
 
 **Date**: 2026-04-30

@@ -1,3 +1,9 @@
+---
+title: 10-hook
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-qs4/10-hook
+---
+
 # 10 — pre-commit hook install/uninstall
 
 ## hook install

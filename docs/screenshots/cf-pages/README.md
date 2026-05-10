@@ -1,3 +1,9 @@
+---
+title: README
+type: note
+permalink: claude-code-profiles/screenshots/cf-pages/readme
+---
+
 # Cloudflare Pages dashboard screenshots
 
 Reference screenshots of the live CF Pages configuration for `getc3p.dev`.

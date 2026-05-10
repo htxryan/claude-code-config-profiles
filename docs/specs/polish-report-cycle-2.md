@@ -1,3 +1,9 @@
+---
+title: polish-report-cycle-2
+type: note
+permalink: claude-code-profiles/specs/polish-report-cycle-2
+---
+
 # Polish Report -- Cycle 2
 
 Generated: 2026-04-27T13:50:39Z
@@ -13,4 +19,3 @@ I see just a "-" as your message. Did you mean to send something specific? Let m
 ## gemini
 
 (no output -- reviewer may have crashed or timed out)
-
