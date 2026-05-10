@@ -1,3 +1,9 @@
+---
+title: 00-overview
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-qs4/00-overview
+---
+
 # Proof — `claude-code-profiles` end-to-end
 
 Beads meta-epic: `claude-code-profiles-qs4` (all 7 dev epics CLOSED)

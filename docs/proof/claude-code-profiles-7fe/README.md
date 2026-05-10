@@ -1,3 +1,9 @@
+---
+title: README
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-7fe/readme
+---
+
 # Proof: c3p Go Migration v1.0 (META `claude-code-profiles-7fe`)
 
 End-to-end evidence that the TypeScript→Go atomic cutover landed correctly. The binary at `cmd/c3p/main.go` was built from `feat/go-rewrite` HEAD (`81d3b5b`) and exercised against fresh fixtures.

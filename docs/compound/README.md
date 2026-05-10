@@ -1,7 +1,8 @@
 ---
-version: "2.7.2"
-last-updated: "2026-04-25"
-summary: "Overview and getting started guide for compound-agent"
+version: 2.7.2
+last-updated: '2026-04-25'
+summary: Overview and getting started guide for compound-agent
+permalink: claude-code-profiles/compound/readme
 ---
 
 # Compound Agent

@@ -1,3 +1,9 @@
+---
+title: claude-code-profiles-advisory-brief
+type: note
+permalink: claude-code-profiles/specs/claude-code-profiles-advisory-brief
+---
+
 # Advisory Fleet Brief — claude-code-profiles
 
 **Date**: 2026-04-25

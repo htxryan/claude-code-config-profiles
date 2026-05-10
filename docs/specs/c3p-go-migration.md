@@ -1,3 +1,9 @@
+---
+title: c3p-go-migration
+type: note
+permalink: claude-code-profiles/specs/c3p-go-migration
+---
+
 # c3p Go Rewrite — Port Specification
 
 **Status**: Draft v2 (Phase 2 of architect skill, post-advisory revision)

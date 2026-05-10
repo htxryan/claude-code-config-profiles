@@ -1,3 +1,9 @@
+---
+title: cw6-section-ownership
+type: note
+permalink: claude-code-profiles/migration/cw6-section-ownership
+---
+
 # Migration: project-root `CLAUDE.md` section ownership (cw6)
 
 > **This guide has moved.**

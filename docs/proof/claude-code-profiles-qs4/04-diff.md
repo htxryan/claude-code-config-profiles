@@ -1,3 +1,9 @@
+---
+title: 04-diff
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-qs4/04-diff
+---
+
 # 04 — diff: see how prod overrides dev
 
 ## `diff dev prod`

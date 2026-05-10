@@ -1,3 +1,9 @@
+---
+title: README
+type: note
+permalink: claude-code-profiles/proof/v1.0.6-prod-install/readme
+---
+
 # Proof: v1.0.6 official-install end-to-end
 
 End-to-end validation of the production installation channel. Started from a clean machine state (cask uninstalled, tap untapped), installed via the canonical `brew install htxryan/tap/c3p`, and exercised the full feature surface against the installed binary at `/opt/homebrew/bin/c3p`.

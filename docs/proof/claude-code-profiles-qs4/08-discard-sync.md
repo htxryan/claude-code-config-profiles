@@ -1,3 +1,9 @@
+---
+title: 08-discard-sync
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-qs4/08-discard-sync
+---
+
 # 08 — discard: drop live edits and re-materialize
 
 ## injected drift on live .claude/CLAUDE.md

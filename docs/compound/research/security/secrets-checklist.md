@@ -1,3 +1,9 @@
+---
+title: secrets-checklist
+type: note
+permalink: claude-code-profiles/compound/research/security/secrets-checklist
+---
+
 # Secrets Detection Checklist
 
 *February 23, 2026*

@@ -1,3 +1,9 @@
+---
+title: what_is_this_about
+type: note
+permalink: claude-code-profiles/compound/research/spec-design/what-is-this-about
+---
+
 # The Big Picture: What Are These Papers About?
 
 These 8 papers form a coherent body of research around one central question:

@@ -1,3 +1,9 @@
+---
+title: overview
+type: note
+permalink: claude-code-profiles/compound/research/security/overview
+---
+
 # Security Review Overview
 
 *February 23, 2026*

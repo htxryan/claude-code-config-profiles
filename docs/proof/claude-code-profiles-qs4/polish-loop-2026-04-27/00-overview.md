@@ -1,3 +1,9 @@
+---
+title: 00-overview
+type: note
+permalink: claude-code-profiles/proof/claude-code-profiles-qs4/polish-loop-2026-04-27/00-overview
+---
+
 # Polish Loop Proof — claude-code-profiles-qs4
 
 **Date**: 2026-04-27

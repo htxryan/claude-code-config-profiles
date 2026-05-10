@@ -1,3 +1,9 @@
+---
+title: auth-patterns
+type: note
+permalink: claude-code-profiles/compound/research/security/auth-patterns
+---
+
 # Authentication & Authorization Patterns
 
 *February 23, 2026*

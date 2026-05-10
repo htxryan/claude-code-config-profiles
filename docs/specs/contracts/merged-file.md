@@ -1,3 +1,9 @@
+---
+title: merged-file
+type: note
+permalink: claude-code-profiles/specs/contracts/merged-file
+---
+
 # MergedFile — Cross-Epic Contract (locked)
 
 **Schema version**: 1

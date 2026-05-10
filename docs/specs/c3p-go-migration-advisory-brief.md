@@ -1,3 +1,9 @@
+---
+title: c3p-go-migration-advisory-brief
+type: note
+permalink: claude-code-profiles/specs/c3p-go-migration-advisory-brief
+---
+
 # c3p Go Migration — Advisory Fleet Brief
 
 **Date**: 2026-05-01

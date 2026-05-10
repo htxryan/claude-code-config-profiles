@@ -1,3 +1,9 @@
+---
+title: claude-code-profiles-decomposition
+type: note
+permalink: claude-code-profiles/specs/claude-code-profiles-decomposition
+---
+
 # claude-code-profiles — Decomposition (Phase 3)
 
 **Date**: 2026-04-25
